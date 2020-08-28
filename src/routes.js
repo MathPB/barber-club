@@ -1,5 +1,5 @@
 const { Router } = require('express');
-const AgendaController = require('../controller/Agenda')
+const AgendaController = require('../controller/getData')
 
 const routes = Router();
 
